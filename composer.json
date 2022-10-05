@@ -1,0 +1,19 @@
+{
+    "name": "defrianh/math-library",
+    "description": "Simple math library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Defrianh\\MathLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "defrianh",
+            "email": "defrian.hidayat@sirclo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
